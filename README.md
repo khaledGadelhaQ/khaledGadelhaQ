@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Gadelhaq</h1>
-<h3 align="center">A passionate software engineer from egypt</h3>
+<h3 align="center">A Passionate Software Engineer From Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
