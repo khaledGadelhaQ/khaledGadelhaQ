@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Backend , DSA and SW**
+- 💬 Ask me about **Backend , DSA and SE**
 
 - 📫 How to reach me **khaledmogadelhaq@gmail.com**
 
